@@ -18,8 +18,7 @@ ul {
 }
 
 li a {
-  display: inline;
-  float: left;
+  display: block;
   text-align: center;
   border-bottom: 1px solid #555;
   color: #000;
