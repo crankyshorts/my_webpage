@@ -1,12 +1,4 @@
-body {background-color: #33C4FF;}
-
-iframe {
-  position: absolute;
-  top: 50%;
-  width: 100%;
-  text-align: center;
-  font-size: 18px;
-}
+body {background-color: #33FFF0;}
 
 ul {
   list-style-type: none;
