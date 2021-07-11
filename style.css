@@ -59,12 +59,8 @@ li:last-child {
     top: 300px;
 }
 
-h1 {
-  postion: center;
-}
-
-h2 {
-  postion: center;
+nav {
+  postion: absolute;
 }
 .thumbnail a{
   postion: bottom;
