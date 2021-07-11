@@ -66,3 +66,6 @@ h1 {
 h2 {
   postion: center;
 }
+.thumbnail a{
+  postion: bottom;
+}
