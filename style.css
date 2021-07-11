@@ -1,1 +1,9 @@
 body {background-color: #92a8d1;}
+
+iframe {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
